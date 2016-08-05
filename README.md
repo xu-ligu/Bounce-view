@@ -3,4 +3,4 @@
 
 Sample
 -------
-<img src=".dog.gif" align="middle" width="280" />
+<img src="dog.gif" align="middle" width="280" />
